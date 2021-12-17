@@ -1,10 +1,8 @@
 '''
 Created on 5/9/21
 @author:   Sebastian LoPiano
-Pledge:  I pledge my honor that I have abided by the Stevens Honor System
-
-CS115 - Hw 13
 '''
+
 import sys
 
 class Board(object):
